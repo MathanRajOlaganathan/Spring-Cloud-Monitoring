@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring-Cloud-Monitoring.iml" filepath="$PROJECT_DIR$/.idea/Spring-Cloud-Monitoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guest-service/guest-service.iml" filepath="$PROJECT_DIR$/guest-service/guest-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reservation-service/reservation-service.iml" filepath="$PROJECT_DIR$/reservation-service/reservation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/room-reservation/room-reservation.iml" filepath="$PROJECT_DIR$/room-reservation/room-reservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/room-service/room-service.iml" filepath="$PROJECT_DIR$/room-service/room-service.iml" />
+    </modules>
+  </component>
+</project>
